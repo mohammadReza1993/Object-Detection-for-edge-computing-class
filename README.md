@@ -1,5 +1,5 @@
-- [Main Section](#Object-Detection-fpr-Edge-Computing-class)
-  - [Subsection 1](#Object-Detection)
+- [Object-Detection-for-Edge-Computing-class](#Main Section)
+  - [Object-Detection](#Subsection 1)
     - [Sub-subsection 1.1](#sub-subsection-11)
     - [Sub-subsection 1.2](#sub-subsection-12)
   - [Subsection 2](#subsection-2)
