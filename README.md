@@ -1,3 +1,3 @@
 # Object-Detection-for-edge-computing-class
 
-## Object Detection
+## 1. Object Detection
