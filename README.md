@@ -1,3 +1,5 @@
-# Object-Detection-for-edge-computing-class
-
-## 1. Object Detection
+- [Main Section](#Object-Detection-fpr-Edge-Computing-class)
+  - [Subsection 1](#Object-Detection)
+    - [Sub-subsection 1.1](#sub-subsection-11)
+    - [Sub-subsection 1.2](#sub-subsection-12)
+  - [Subsection 2](#subsection-2)
