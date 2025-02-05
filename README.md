@@ -2,7 +2,7 @@
   - [Object Detection](#Object-Detection)
     - [Sub-subsection 1.1](#sub-subsection-11)
     - [Sub-subsection 1.2](#sub-subsection-12)
-  - [Train a simple Object Detection Network](#Train-a-simple-Object-Detection-Network)
+  - [Train a simple Object Detection Model](#Train-a-simple-Object-Detection-Model)
 
 # Object Detection for Edge Computing Class
 In this assignment, we will explore the fundamentals of object detection and train a simple object detection model. After training, we will evaluate the model's performance and make it deployment-ready for NVIDIA Jetson Nano.
@@ -94,4 +94,14 @@ __Applications of Object Detection__
 🔹 Retail & Inventory Management – Tracks products in stores.
 
 
-# Train a simple Object Detection Network
+# Train a simple Object Detection Model
+We will train a simple object detection model for face detection. To accomplish this, you will use the dataset provided in the following Kaggle notebook:
+
+🔗 [Insert Kaggle Notebook Link]
+
+This notebook also includes code to read the dataset and preprocess the labels for training your model.
+__Important Note__
+
+The dataset contains annotations for multiple faces within a single image. However, for this task, you only need to develop an object detection model that detects one face per image.
+
+Happy coding! 🚀
