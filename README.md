@@ -97,11 +97,13 @@ __Applications of Object Detection__
 # Train a simple Object Detection Model
 We will train a simple object detection model for face detection. To accomplish this, you will use the dataset provided in the following Kaggle notebook:
 
-🔗 [Insert Kaggle Notebook Link]
+🔗 [[Insert Kaggle Notebook Link](https://www.kaggle.com/code/mohammadreza1993/object-detection-for-edge-computing-class/edit)]
 
 This notebook also includes code to read the dataset and preprocess the labels for training your model.
 __Important Note__
 
 The dataset contains annotations for multiple faces within a single image. However, for this task, you only need to develop an object detection model that detects one face per image.
+
+Please open the notebook and develop your network for this task. 
 
 Happy coding! 🚀
