@@ -11,3 +11,11 @@ This project will provide hands-on experience in object detection and model depl
 
 
 # Object-Detection
+Object detection is a computer vision task that identifies and localizes objects within an image or video. Unlike image classification, which only assigns a single label to an image, object detection predicts multiple objects, their locations, and their respective classes.
+Object detection models typically perform three main tasks:
+
+    1. Feature Extraction – The model extracts important features from the input image.
+    2. Object Localization – The model determines the coordinates of objects in the image.
+    3. Object Classification – The model assigns a class label to each detected object.
+    
+Types of Object Detection Models
