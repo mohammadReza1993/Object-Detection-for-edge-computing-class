@@ -69,7 +69,9 @@ C. Anchor Boxes & Prior Boxes
 D. Loss Functions
 
   Classification Loss (e.g., Cross-Entropy Loss for class labels).
+  
   Regression Loss (e.g., Smooth L1 Loss or IoU-based loss for bounding box predictions).
+  
   Focal Loss (used in RetinaNet to focus on hard-to-detect objects).
 
 __Evaluation Metrics in Object Detection__
