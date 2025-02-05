@@ -84,6 +84,9 @@ __Evaluation Metrics in Object Detection__
 __Applications of Object Detection__
 
 🔹 Autonomous Vehicles – Detects pedestrians, vehicles, and traffic signs.
+
 🔹 Surveillance & Security – Identifies threats in CCTV footage.
+
 🔹 Medical Imaging – Detects tumors and abnormalities in scans.
+
 🔹 Retail & Inventory Management – Tracks products in stores.
