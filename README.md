@@ -73,6 +73,7 @@ D. Loss Functions
 
 __Evaluation Metrics in Object Detection__
 
+
 ✅ Intersection over Union (IoU) – Measures overlap between predicted and ground-truth boxes.
 ✅ Mean Average Precision (mAP) – Evaluates overall detection performance across multiple IoU thresholds.
 ✅ Frames Per Second (FPS) – Measures inference speed for real-time applications.
