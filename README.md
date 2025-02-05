@@ -19,6 +19,7 @@ Object detection models typically perform three main tasks:
   3. Object Classification – The model assigns a class label to each detected object.
     
 __Types of Object Detection Models__
+
 Object detection models can be broadly categorized into:
 A. Two-Stage Object Detection (Region-Based Methods)
 
