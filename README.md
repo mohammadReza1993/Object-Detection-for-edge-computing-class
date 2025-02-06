@@ -136,7 +136,7 @@ Cross-Hardware Deployment: Run models on edge devices, cloud, and specialized AI
 
 Train a model in PyTorch, TensorFlow, or another framework.
 
-Convert the model to ONNX format using torch.onnx.export() or tf2onnx.
+Convert the model to ONNX format using `torch.onnx.export()` or `tf2onnx`.
 
 Optimize the ONNX model using ONNX Runtime or TensorRT.
 
