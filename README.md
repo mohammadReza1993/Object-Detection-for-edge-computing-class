@@ -55,6 +55,7 @@ B. One-Stage Object Detection (Single Shot Methods)
 
 
 __Key Components in Object Detection Models__\
+![Network Architectur](Network.png)
 
 A. Backbone (Feature Extractor)
 
