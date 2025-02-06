@@ -54,7 +54,8 @@ B. One-Stage Object Detection (Single Shot Methods)
 🔹 Cons: May struggle with small objects or crowded scenes.
 
 
-__Key Components in Object Detection Models__
+__Key Components in Object Detection Models__\
+
 A. Backbone (Feature Extractor)
 
   A convolutional neural network (CNN) extracts meaningful features from the image.
