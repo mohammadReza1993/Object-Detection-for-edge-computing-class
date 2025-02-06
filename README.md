@@ -1,8 +1,13 @@
 - [Object Detection for Edge Computing Class](#Object-Detection-for-Edge-Computing-Class)
   - [Object Detection](#Object-Detection)
-    - [Types of Object Detection Models](#sub-subsection-11)
-    - [Sub-subsection 1.2](#sub-subsection-12)
+    - [Types of Object Detection Models](#Types-of-Object-Detection-Models)
   - [Train a simple Object Detection Model](#Train-a-simple-Object-Detection-Model)
+  - [Exporting to ONNX](#Exporting-to-ONNX)
+    -[Key Features of ONNX](#Key-Features-of-ONNX)
+    - [Why Use ONNX?](#Why-Use-ONNX?)
+    - [ONNX Workflow:](#ONNX-Workflow)
+  - [Deploment the model On Jetson Nano](#Deploment-the-model-On-Jetson-Nano)
+  - [Evaluation!!!](#Evaluation!!!)
 
 # Object Detection for Edge Computing Class
 In this assignment, we will explore the fundamentals of object detection and train a simple object detection model. After training, we will evaluate the model's performance and make it deployment-ready for NVIDIA Jetson Nano.
