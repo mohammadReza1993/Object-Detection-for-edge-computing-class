@@ -1,6 +1,6 @@
 - [Object Detection for Edge Computing Class](#Object-Detection-for-Edge-Computing-Class)
   - [Object Detection](#Object-Detection)
-    - [Sub-subsection 1.1](#sub-subsection-11)
+    - [Types of Object Detection Models](#sub-subsection-11)
     - [Sub-subsection 1.2](#sub-subsection-12)
   - [Train a simple Object Detection Model](#Train-a-simple-Object-Detection-Model)
 
@@ -18,7 +18,7 @@ Object detection models typically perform three main tasks:
   2. Object Localization – The model determines the coordinates of objects in the image.
   3. Object Classification – The model assigns a class label to each detected object.
     
-__Types of Object Detection Models__
+## Types of Object Detection Models
 
 Object detection models can be broadly categorized into:
 A. Two-Stage Object Detection (Region-Based Methods)
