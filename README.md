@@ -3,7 +3,7 @@
     - [Types of Object Detection Models](#Types-of-Object-Detection-Models)
   - [Train a simple Object Detection Model](#Train-a-simple-Object-Detection-Model)
   - [Exporting to ONNX](#Exporting-to-ONNX)
-    -[Key Features of ONNX](#Key-Features-of-ONNX)
+    - [Key Features of ONNX](#Key-Features-of-ONNX)
     - [Why Use ONNX?](#Why-Use-ONNX?)
     - [ONNX Workflow:](#ONNX-Workflow)
   - [Deploment the model On Jetson Nano](#Deploment-the-model-On-Jetson-Nano)
