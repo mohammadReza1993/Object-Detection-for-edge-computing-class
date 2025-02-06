@@ -1,3 +1,4 @@
+# LATENCY is also Important
 - [Object Detection for Edge Computing Class](#Object-Detection-for-Edge-Computing-Class)
   - [Object Detection](#Object-Detection)
     - [Types of Object Detection Models](#Types-of-Object-Detection-Models)
